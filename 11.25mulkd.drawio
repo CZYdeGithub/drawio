@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.9.1">
   <diagram name="第 1 页" id="p-endJZQSvNj-eu0vTXB">
-    <mxGraphModel dx="2074" dy="1171" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1430" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -837,6 +837,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Zi9k3S5RNx6pGWKbOCLW-119" value="detach()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=none;labelBackgroundColor=none;fontSize=16;" vertex="1" connectable="0" parent="Zi9k3S5RNx6pGWKbOCLW-89">
+          <mxGeometry x="0.2837" y="-3" relative="1" as="geometry">
+            <mxPoint x="36" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Zi9k3S5RNx6pGWKbOCLW-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="cH3eh2cviZIBNxBdTIcL-163" target="Zi9k3S5RNx6pGWKbOCLW-56">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="590" y="740" as="targetPoint" />
@@ -926,6 +931,9 @@
         </mxCell>
         <mxCell id="Zi9k3S5RNx6pGWKbOCLW-116" value="relation kd" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="611.98" y="859.9971428571431" as="geometry" />
+        </mxCell>
+        <mxCell id="Zi9k3S5RNx6pGWKbOCLW-120" value="detach()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=none;labelBackgroundColor=none;fontSize=16;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="750.2967895491284" y="828.2836959876281" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
