@@ -274,10 +274,10 @@
             <mxPoint y="6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="y9jUjhNXn4y1J4D6RSC7-78" value="Self&amp;nbsp;&lt;div&gt;attention&lt;/div&gt;&lt;div&gt;&amp;nbsp;fusion&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=west;textDirection=vertical-rl;fontSize=16;strokeColor=#ffb570;strokeWidth=3;fillColor=#f8cecc;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="537.49" y="-106.03999999999989" width="60" height="110" as="geometry" />
+        <mxCell id="y9jUjhNXn4y1J4D6RSC7-78" value="Cross&amp;nbsp;&lt;div&gt;attention&lt;/div&gt;&lt;div&gt;&amp;nbsp;fusion&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=west;textDirection=vertical-rl;fontSize=16;strokeColor=#ffb570;strokeWidth=3;fillColor=#f8cecc;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="537.49" y="-106.04" width="62.51" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="y9jUjhNXn4y1J4D6RSC7-79" value="cross&amp;nbsp;&lt;div&gt;attention&lt;/div&gt;&lt;div&gt;&amp;nbsp;fusion&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=east;textDirection=vertical-rl;fontSize=16;strokeColor=#666666;flipV=1;flipH=1;rotation=-180;strokeWidth=3;fillColor=#f5f5f5;" parent="1" vertex="1">
+        <mxCell id="y9jUjhNXn4y1J4D6RSC7-79" value="Cross&amp;nbsp;&lt;div&gt;attention&lt;/div&gt;&lt;div&gt;&amp;nbsp;fusion&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=east;textDirection=vertical-rl;fontSize=16;strokeColor=#666666;flipV=1;flipH=1;rotation=-180;strokeWidth=3;fillColor=#f5f5f5;" parent="1" vertex="1">
           <mxGeometry x="767.49" y="-106.03999999999989" width="60" height="110" as="geometry" />
         </mxCell>
         <mxCell id="y9jUjhNXn4y1J4D6RSC7-80" value="" style="group" parent="1" vertex="1" connectable="0">
